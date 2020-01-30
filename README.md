@@ -1,3 +1,3 @@
-# zhx_first_repository
+# cpu
 just out of fun(?)~
 aim to study
